@@ -16,4 +16,4 @@ SideNote: You should also know that faces having embeddings with small euclidean
 Face Recognition training & Predict jupyter notebook extracts relevant function from Model.py and Image_preprocessing.py
 Model.py contains the CNN model used to extract embeddings from Faces while the Image_preprocessing.py contains functions for cropping out and straightening the face from any image
 
-The Predict_model.py can be modified to train new data containing new identities. 
+The prediction_model.py can be modified to train new data containing new identities. 
